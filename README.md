@@ -1,4 +1,4 @@
-#PostgresAI-Toolkit 🐘🧠
+# PostgresAI-Toolkit 🐘🧠
 
 Welcome to PostgresAI-Toolkit, your one-stop repository for AI and Machine Learning solutions tailored for PostgreSQL, Python, and PL/pgSQL! 🚀
 📚 About
