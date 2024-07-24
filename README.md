@@ -28,10 +28,7 @@ pip install -r requirements.txt
 
 📂 Repository Structure
 
-    /python: Python scripts and modules
-    /plpgsql: PL/pgSQL functions and procedures
-    /notebooks: Jupyter notebooks with examples and tutorials
-    /docs: Detailed documentation and guides
+    /pgvector: Python and PL/pgSQL scripts and code
 
 🤝 Contributing
 We welcome contributions from the community! Please read our CONTRIBUTING.md for guidelines on how to submit pull requests, report issues, or suggest improvements.
